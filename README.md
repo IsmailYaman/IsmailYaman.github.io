@@ -1,3 +1,5 @@
-# PRG8-WEEK3
+#ML bbject recognition
 
-Hier heb ik een simpel spelletje gemaakt waarbij je kunt checken of het voorwerp een controller is of een rubiks cube. (Dit waren de eerste voorwerpen die ik op m'n bureau had liggen, dus daarom zulke random objecten.
+Here I have made a simple object recognition game where you can check whether the object is a controller or a Rubik's cube. (These were the first objects I had on my desk, so that's why such random objects.
+
+Disclaimer: It does not work perfectly, as it was only trained on 1 kind of Rubik's cube and controller. All other objects will be recognized either as a Rubik's cube or a controller.
