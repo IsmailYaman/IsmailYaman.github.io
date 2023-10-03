@@ -1,4 +1,4 @@
-#ML bbject recognition
+# ML object recognition
 
 Here I have made a simple object recognition game where you can check whether the object is a controller or a Rubik's cube. (These were the first objects I had on my desk, so that's why such random objects.
 
